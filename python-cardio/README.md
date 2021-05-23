@@ -1,4 +1,4 @@
-## Solution of `Python cardio` challenges
+## Solutions for `Python cardio`
 ## Python cardio
 
 
@@ -9,7 +9,6 @@ It is time to put that knowledge into practice. The area of ​​a triangle is 
 Write a program that takes the base and the height as parameters and calculates the area of ​​the triangle.
 
  **❔Bonus: the program must determine if the triangle is isosceles, equilateral or scalene.** ( As much as I know, We will need additional info to achieve it.)
- Need a aditionnal data for a
 
 ## ✔️Challenge 2 - Rock, paper or scissors
 
